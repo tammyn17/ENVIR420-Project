@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './App.css';
 
-const  Nav= () => {
+const Nav = () => {
     return (
         <header>
             <nav>
